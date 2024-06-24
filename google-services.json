@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "662781821020",
+    "firebase_url": "https://fyptest-c386f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fyptest-c386f",
+    "storage_bucket": "fyptest-c386f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662781821020:android:ea6a73a57613d05e0f6699",
+        "android_client_info": {
+          "package_name": "com.afiqkyrol.prototypeFYP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "xxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
